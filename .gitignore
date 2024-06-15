@@ -52,10 +52,9 @@ Mkfile.old
 dkms.conf
 
 # DWM files
-dwm
+slstatus
 *.sh
 *.txt
-config.h
 transient
 *.rej
 *.orig
